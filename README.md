@@ -1,5 +1,9 @@
 ### Hi there 👋
-![Alt Text](https://i.pinimg.com/originals/96/c4/1d/96c41d290b7a0cd5d80ceebc3aaf9d15.gif)
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/96/c4/1d/96c41d290b7a0cd5d80ceebc3aaf9d15.gif" alt="animated" />
+</p>
+
 
 <!--
 **daricoder/daricoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
