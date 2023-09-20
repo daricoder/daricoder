@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p align="center">
   <img src="https://i.pinimg.com/originals/96/c4/1d/96c41d290b7a0cd5d80ceebc3aaf9d15.gif" alt="animated" />
 </p>
